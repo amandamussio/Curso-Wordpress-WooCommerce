@@ -2,14 +2,18 @@
 
 Curso FREE sobre fazer um ecommerce com Wordpress e Woocommerce.
 
-## Temas
-
-### Ementa
-
-1. Anatomia mínima de um tema
-2. Como pensar o layout para o wordpress
-3. Primeiros passos:
-3.1. Estrutura básica estática
-3.2. Adaptação da estrutura para o wordpress
-3.3. Fazendo o Wordpress identificar o tema
-4. trabalhar com as funcoes basicas do wordpress
+## Ementa: Tema básico
+- Anatomia de um tema
+- Como pensar o layout para o wordpress
+- Primeiros passos:
+    - Estrutura básica estática
+    - Adaptação da estrutura para o wordpress
+    - Fazendo o Wordpress identificar o tema
+- Trabalhando com o Wordpress:
+    - Loops
+    - Sidebar
+    - Widgets
+    - Menu dinânico
+- Plugins
+    - Como escolher um plugin?
+    - Quais são os plugins confiáveis?

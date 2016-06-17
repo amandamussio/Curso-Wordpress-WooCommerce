@@ -3,6 +3,10 @@
 Curso FREE sobre fazer um ecommerce com Wordpress e Woocommerce.
 
 
+## Como funciona?
+Esta será uma série de vídeos colaborativa com a participação dos instrutores @vedovato e @suissa. Novos vídeos que estão fora da ementa inicial poderão ser adicionados posteriormente bastando que seja criado uma issue para cada nova solicitação e/ou tema proposto.
+
+
 ## Ementa: Tema básico
 - Anatomia de um tema
 - Como pensar o layout para o wordpress

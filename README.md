@@ -10,7 +10,8 @@ Curso FREE sobre fazer um ecommerce com Wordpress e Woocommerce.
     - Adaptação da estrutura para o wordpress
     - Fazendo o Wordpress identificar o tema
 - Trabalhando com o Wordpress:
-    - Loops
+    - Loop de conteúdo
+    - Single? Page? Archive? Socorro!
     - Sidebar
     - Widgets
     - Menu dinânico

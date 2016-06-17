@@ -2,6 +2,7 @@
 
 Curso FREE sobre fazer um ecommerce com Wordpress e Woocommerce.
 
+
 ## Ementa: Tema básico
 - Anatomia de um tema
 - Como pensar o layout para o wordpress
@@ -18,3 +19,11 @@ Curso FREE sobre fazer um ecommerce com Wordpress e Woocommerce.
 - Plugins
     - Como escolher um plugin?
     - Quais são os plugins confiáveis?
+
+
+## Ementa: Woocommerce
+Em breve
+
+
+## Contribua!
+Se tem algo que você queira aprender neste treinamento, abra uma issue e vamos discutir :)

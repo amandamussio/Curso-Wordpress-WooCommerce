@@ -29,5 +29,11 @@ Esta será uma série de vídeos colaborativa com a participação dos instrutor
 Em breve
 
 
-## Contribua!
-Se tem algo que você queira aprender durante esta série de vídeos, comente na issue #1 ou abra sua própria e vamos discutir :)
+## Vídeos futuros
+- Wordpress: API + integração com Node.js
+- Wordpress: Roots starter theme - 
+- Woocommerce: Webhooks
+
+
+## Contribua conosco!
+Se tem algo que você queira aprender durante esta série de vídeos, [comente nesta issue](https://github.com/Webschool-io/Curso-Wordpress-WooCommerce/issues/1) ou abra sua própria e vamos discutir :)
